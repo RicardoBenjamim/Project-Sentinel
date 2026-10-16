@@ -1,0 +1,8 @@
+INFO Server started successfully
+INFO Disk usage at 45%
+WARNING Disk usage at 78%
+ERROR Application failed to rotate logs
+WARNING Disk usage at 89%
+ERROR Disk usage reached 94%
+ERROR Application generated excessive logs
+INFO Investigation started
