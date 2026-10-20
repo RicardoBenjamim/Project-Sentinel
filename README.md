@@ -8,7 +8,7 @@ The goal of this project is to build hands-on experience with Linux, Bash, Git, 
 
 ## Author
 
-**Ricardo de Almeida Benjamin**
+**Ricardo de Almeida Benjamim**
 
 Aspiring DevOps Engineer | Cloud Engineer | Cybersecurity Student
 
